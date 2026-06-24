@@ -30,7 +30,7 @@ Some of the codes use SpringRank (https://github.com/cdebacco/SpringRank). Pleas
 * `run06_figs09_and_10_passthrough.m`
 * `run07_fig11_stdev_network.m`
 * `run08_fig08_struct_importance.m`
-* `run_additional_figures_tabs.m`
+* `run_additional_figs_tabs.m`
 
 Running these files will generate the figures presented in the paper. The scripts should be run in numerical order.
 
