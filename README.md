@@ -12,10 +12,10 @@ These codes are written in MATLAB, and Dynare is used to describe the model.
 
 The codes have been confirmed to run under the following environment:
 
-* MATLAB 2023a/2024b
+* MATLAB 2023a
 * Dynare 6.0/6.1
 
-The codes may not work properly with versions other than those listed above.
+The codes may not work properly with versions other than those listed above　(In particular, their behavior is highly dependent on the version of Dynare, and they have been confirmed not to work properly with MATLAB 2025a).
 
 Some of the codes use SpringRank (https://github.com/cdebacco/SpringRank). Please download SpringRank separately and place the files in the `Utils/Spring_Rank` folder.
 
