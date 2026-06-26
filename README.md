@@ -48,4 +48,4 @@ Some scripts, especially those involving estimation, may take a long time to run
 
 Please use these codes at your own risk. We are not responsible for any damage or errors that may occur from using these codes.
 
-Code author: Kohei Hasui (Aichi University)
+Code author: Kohei Hasui (Aichi University, Japan)
